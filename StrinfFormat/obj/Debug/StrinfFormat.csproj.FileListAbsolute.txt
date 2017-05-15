@@ -1,0 +1,12 @@
+D:\it\progect\StrinfFormat\StrinfFormat\bin\Debug\StrinfFormat.exe.config
+D:\it\progect\StrinfFormat\StrinfFormat\bin\Debug\StrinfFormat.exe
+D:\it\progect\StrinfFormat\StrinfFormat\bin\Debug\StrinfFormat.pdb
+D:\it\progect\StrinfFormat\StrinfFormat\obj\Debug\StrinfFormat.csprojResolveAssemblyReference.cache
+D:\it\progect\StrinfFormat\StrinfFormat\obj\Debug\StrinfFormat.exe
+D:\it\progect\StrinfFormat\StrinfFormat\obj\Debug\StrinfFormat.pdb
+D:\it\progect\StringFormat\StrinfFormat\bin\Debug\StrinfFormat.exe.config
+D:\it\progect\StringFormat\StrinfFormat\bin\Debug\StrinfFormat.exe
+D:\it\progect\StringFormat\StrinfFormat\bin\Debug\StrinfFormat.pdb
+D:\it\progect\StringFormat\StrinfFormat\obj\Debug\StrinfFormat.csprojResolveAssemblyReference.cache
+D:\it\progect\StringFormat\StrinfFormat\obj\Debug\StrinfFormat.exe
+D:\it\progect\StringFormat\StrinfFormat\obj\Debug\StrinfFormat.pdb
